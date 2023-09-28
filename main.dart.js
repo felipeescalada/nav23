@@ -59448,7 +59448,7 @@ A.TE.prototype={
 $1(a){return new A.o7(null)},
 $S:373}
 A.mO.prototype={
-O(a){return A.W6(A.MJ(null),A.pz(A.a5W(A.lL("View Details"),new A.Rv(a)),null,null))}}
+O(a){return A.W6(A.MJ(null),A.pz(A.a5W(A.lL("View Details cors"),new A.Rv(a)),null,null))}}
 A.Rv.prototype={
 $0(){A.aad(this.a,"/details/1",t.X)},
 $S:0}
@@ -59472,7 +59472,7 @@ var $async$r6=A.a2(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:p=t.N
 o=A.aR(["Access-Control-Allow-Origin","*","Access-Control-Allow-Credentials","true","Access-Control-Allow-Headers","Origin,Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token,locale","Access-Control-Allow-Methods","POST, GET,OPTIONS"],p,p)
 s=2
-return A.a6(A.ap1(A.fz("https://dolphin-production.up.railway.app/"),o),$async$r6)
+return A.a6(A.ap1(A.fz("https://nav23-production.up.railway.app/https://dolphin-production.up.railway.app/"),o),$async$r6)
 case 2:n=b
 if(n.b===200)q.aI(new A.a1J(q,n))
 return A.a_(null,r)}})

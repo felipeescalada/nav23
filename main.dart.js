@@ -60499,7 +60499,7 @@ j=n.k_$
 j===$&&A.b()
 j=j.b
 j===$&&A.b()
-j.l(0,"content-Type","application/json")
+j.l(0,"Access-Control-Allow-Credentials","true")
 j=n.k_$
 j===$&&A.b()
 j=j.b
